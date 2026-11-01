@@ -1,0 +1,6 @@
+{
+  "name": "Research Data Studio",
+  "description": "Desktop research dataset organizer with AI-driven schema inference, data dictionary generator, quality risk assessment, and academic methodology log writer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
